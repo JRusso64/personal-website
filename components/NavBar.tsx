@@ -8,7 +8,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex-shrink-0">
           <Link legacyBehavior href="/">
-            <a className="text-white text-lg font-bold">My Portfolio</a>
+            <a className="text-white text-lg font-bold">Portfolio</a>
           </Link>
         </div>
         {/* Navigation Links */}
