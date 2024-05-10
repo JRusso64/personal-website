@@ -1,13 +1,14 @@
-import Projects from '../components/ProjectsList';
 import NavBar from '../components/NavBar';
+import HomePage from '../components/HomePage';
 
 const Home = () => {
   return(
     <>
       <NavBar />
+      <HomePage />
     </>
   )
 }
 
 
-export default Home
+export default Home;
