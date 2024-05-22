@@ -1,3 +1,5 @@
+"use client"
+
 import React from 'react';
 import NavBar from '../../../components/NavBar';
 import ASLingo from '../../../components/project-components/ASLingo'
