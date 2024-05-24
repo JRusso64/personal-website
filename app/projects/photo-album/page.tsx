@@ -1,11 +1,12 @@
 "use client"
 import React from 'react';
 import NavBar from '../../../components/NavBar';
-import TextMessenger from '../../../components/project-components/TextMessenger';
-export default function Home() {
+import PhotoAlbum from '../../../components/project-components/PhotoAlbum';
+export default function Photo_Album() {
   return (
     <>
-    <p>Sorry, I didn't create this page yet!</p>
+      <NavBar />
+      <PhotoAlbum />
     </>
   );
 }

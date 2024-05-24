@@ -14,7 +14,7 @@ export default function Projects() {
 
       <p className="text-2xl text-center">Smaller Projects I've Worked On</p>
       <ul className="list-none list-inside text-lg space-y-4 text-center">
-        <li><Link legacyBehavior href="/projects/photo-album-app" passHref><a className="text-blue-600 hover:underline">Photo Album App</a></Link></li>
+        <li><Link legacyBehavior href="/projects/photo-album" passHref><a className="text-blue-600 hover:underline">Photo Album App</a></Link></li>
         <li><Link legacyBehavior href="/projects/photo-album-android" passHref><a className="text-blue-600 hover:underline">Photo Album App Ported to Android</a></Link></li>
       </ul>
     </div>
